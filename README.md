@@ -20,8 +20,7 @@ Program to find the gcd of two number using function.
 Developed by: VISMAYA.S
 RegisterNumber:  21002841
 */
-```
-def gcd():
+```def gcd():
     n1=int(input())
     n2=int(input())
     if n1>n2:
